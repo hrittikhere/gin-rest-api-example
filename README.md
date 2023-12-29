@@ -11,7 +11,7 @@ API Server technology stack is
 - REST Server: `gin`
 - Database: `MySQL` with `golang-migrate` to migrate  
 - ORM: `gorm v2`  
-- Dependency Injection: `fx`  
+- Dependency Injection: `fx`   
 - Unit Testing: `go test` and `testify`
 - Configuration management: `cobra`
 
